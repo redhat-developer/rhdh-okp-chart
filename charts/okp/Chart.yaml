@@ -10,6 +10,6 @@ keywords:
   - solr
   - red-hat
   - openshift
-home: https://github.com/redhat-ai-dev/okp-chart
+home: https://github.com/redhat-developer/rhdh-okp-chart
 sources:
-  - https://github.com/redhat-ai-dev/okp-chart
+  - https://github.com/redhat-developer/rhdh-okp-chart
